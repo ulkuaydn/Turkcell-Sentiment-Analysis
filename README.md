@@ -169,7 +169,7 @@ Endeksin orta banda yakın konumlanması şu şekilde yorumlanabilir:
 
 Analiz bulguları doğrultusunda, Turkcell’in iletişim stratejilerinde aşağıdaki yaklaşımları benimsemesi önerilmektedir:
 
-**Şeffaflık ve Hesap Verebilirlik Vurgusu**
+➥ **Şeffaflık ve Hesap Verebilirlik Vurgusu**
 
 Kullanıcıların önemli bir kısmı, sorunların varlığından ziyade bu sorunlara verilen tepkilerden memnuniyetsizdir. Bu nedenle iletişim dilinde:
 
@@ -181,7 +181,7 @@ Kullanıcıların önemli bir kısmı, sorunların varlığından ziyade bu soru
 
 öne çıkarılmalıdır.
 
-**İnsan Odaklı Hizmet Anlatısı**
+➥ **İnsan Odaklı Hizmet Anlatısı**
 
 Müşteri hizmetleri ve bayi deneyimi, analizde en çok eleştirilen alanlardan biridir. Bu durum, iletişimde:
 
@@ -193,7 +193,7 @@ Müşteri hizmetleri ve bayi deneyimi, analizde en çok eleştirilen alanlardan 
 
 ile dengelenmelidir.
 
-**Dijital Servislerin Yeniden Konumlandırılması**
+➥ **Dijital Servislerin Yeniden Konumlandırılması**
 
 Dijital servisler (BiP, Salla Kazan vb.) kullanıcılar tarafından tamamen reddedilmemekte; ancak beklenti yönetimi zayıf kalmaktadır. Bu nedenle:
 
