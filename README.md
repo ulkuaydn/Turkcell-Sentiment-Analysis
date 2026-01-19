@@ -8,11 +8,11 @@ Günümüzde telekomünikasyon sektörü, dijital dönüşümün merkezinde yer 
 
 Araştırma, işletme stratejileri ve pazarlama iletişimi açısından kritik öneme sahip aşağıdaki üç temel soruya odaklanmaktadır:
 
-- Pazar Psikolojisi: Makro düzeyde tüketici güveni, yeni bir ürün veya hizmet lansmanı için uygun bir psikolojik zemin sunmakta mıdır?
+- **Pazar Psikolojisi:** Makro düzeyde tüketici güveni, yeni bir ürün veya hizmet lansmanı için uygun bir psikolojik zemin sunmakta mıdır?
 
-- Söylemsel Konumlandırma: Marka algısı dijital medya anlatılarında ağırlıklı olarak fırsat ve inovasyon ekseninde mi, yoksa risk ve kriz ekseninde mi kümelenmektedir?
+- **Söylemsel Konumlandırma:** Marka algısı dijital medya anlatılarında ağırlıklı olarak fırsat ve inovasyon ekseninde mi, yoksa risk ve kriz ekseninde mi kümelenmektedir?
 
-- Kullanıcı Kaygıları: Tüketici zihninde öne çıkan temel algısal bariyerler nelerdir ve bu bariyerler etkili iletişim stratejileri aracılığıyla nasıl güvene dönüştürülebilir?
+- **Kullanıcı Kaygıları:** Tüketici zihninde öne çıkan temel algısal bariyerler nelerdir ve bu bariyerler etkili iletişim stratejileri aracılığıyla nasıl güvene dönüştürülebilir?
 ---
 
 ## 2. METODOLOJİK ÇERÇEVE VE VERİ SETİNİN OLUŞTURULMASI
