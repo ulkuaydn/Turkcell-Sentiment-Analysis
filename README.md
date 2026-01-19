@@ -185,11 +185,11 @@ Kullanıcıların önemli bir kısmı, sorunların varlığından ziyade bu soru
 
 Müşteri hizmetleri ve bayi deneyimi, analizde en çok eleştirilen alanlardan biridir. Bu durum, iletişimde:
 
-- Gerçek çalışan hikâyeleri
+- *Gerçek çalışan hikâyeleri*
 
-- Saha operasyonlarından örnekler
+- *Saha operasyonlarından örnekler*
 
-- “Gerçek insan, gerçek çözüm” vurgusu
+- *“Gerçek insan, gerçek çözüm” vurgusu*
 
 ile dengelenmelidir.
 
@@ -197,11 +197,11 @@ ile dengelenmelidir.
 
 Dijital servisler (BiP, Salla Kazan vb.) kullanıcılar tarafından tamamen reddedilmemekte; ancak beklenti yönetimi zayıf kalmaktadır. Bu nedenle:
 
-- Abartılı vaatlerden kaçınılmalı
+- *Abartılı vaatlerden kaçınılmalı*
 
-- Net fayda anlatımı yapılmalı
+- *Net fayda anlatımı yapılmalı*
 
-- Kullanıcı deneyimi sadeleştirilmelidir
+- *Kullanıcı deneyimi sadeleştirilmelidir*
 
 ### 4.4 Yönetimsel Değerlendirme
 
